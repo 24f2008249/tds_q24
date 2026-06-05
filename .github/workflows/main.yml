@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Print email
-        run: echo "24f2008249@ds.study.iitm.ac.in"
+      - name: 24f2008249@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
